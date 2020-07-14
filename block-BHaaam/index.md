@@ -1,0 +1,21 @@
+### BLOCK-writeCode
+
+### Create a website having 3 separate pages.
+
+#### TODO 💻:
+
+1. Create a multi-page website, having at least three pages connected.
+
+2. Each page must have one header and footer.
+
+3. In between the header and footer, there must be the main content of the page.
+
+4. The main content must have at least two articles.
+
+5. Each article must have one image.
+
+6. Use different background colors for different pages.
+
+7. Using CSS resets is necessary.
+
+- use appropriate semantic tags and keep the nesting and indentation clean.
