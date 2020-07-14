@@ -1,0 +1,23 @@
+### BLOCK-writeCode
+
+### Create a website having 3 separate pages.
+
+#### TODO 💻:
+
+1. Create a website having 3 separate pages.
+2. Each page must be connected.
+3. Each page must have the same structure. But the content can be different. The sample structure of a page has been shown below.
+4. There must be different images on each page.
+5. For the link use both relative path and absolute path depending upon the type of link.
+6. In the footer, we have some social media links also, connect each media link to your profile page.
+7. For mail me link in the footer, connect it to a mail. The mail must have a subject and body part also.
+8. Back to top button must take to the top of the page once clicked.
+
+---
+
+![alt text](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/html-css/ex-1.png)
+
+---
+
+- use appropriate semantic tags and keep the nesting and indentation clean.
+- All the absolute must open in a new window.
